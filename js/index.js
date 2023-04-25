@@ -312,7 +312,7 @@ submit.addEventListener('submit',(e)=>{
     // Email code
     Email.send({
         SecureToken : "b90307ef-6954-4566-a96d-b0ccf8a98f47",
-        To : 'destrada9613@gmail.com',
+        To : 'tuwebsimple444@gmail.com',
         From : "destrada9613@gmail.com",
         Subject : "Email from " + emailform.value,
         Body : ebody
